@@ -91,7 +91,7 @@
     <section class="page-section bg-primary text-white mb-0" id="about">
         <div class="container">
             <!-- About Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+            <h2 class="page-section-heading text-center text-uppercase text-white">Register</h2>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
@@ -100,14 +100,14 @@
             </div>
             <!-- About Section Content-->
             <div class="row">
-                <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                <div class="col-lg-4 ml-auto"><p class="lead">Hallo Teman teman semuanya selemat data di SMK ****** , bagi temen temen yang sudah mendaftar temen-temen bisa lanjut ke halamn login untuk pengisian data selanjutnya.</p></div>
+                <div class="col-lg-4 mr-auto"><p class="lead">Dan bagi temen-temen yang belum mendafta temen-temen bisa langusung klik tombel register dibawah ini untuk melakukan pendaftaranya ya.</p></div>
             </div>
             <!-- About Section Button-->
             <div class="text-center mt-4">
                 <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                    <i class="fas fa-download mr-2"></i>
-                    Free Download!
+                    <i class="fas fa-user-graduate"></i>
+                    Register
                 </a>
             </div>
         </div>
